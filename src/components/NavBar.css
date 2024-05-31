@@ -1,0 +1,21 @@
+.navbar {
+  height: 80px;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+  padding: 5px 75px;
+}
+
+.navbar--cart {
+  border: 1px solid black;
+  border-radius: 3px;
+  padding: 15px 40px;
+  font-size: 1rem;
+  background-color: white;
+}
+
+.navbar--cart:hover {
+  background-color: lightgray;
+}

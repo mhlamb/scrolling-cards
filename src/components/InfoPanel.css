@@ -1,0 +1,28 @@
+.infoPanel {
+  display: flex;
+  justify-content: space-between;
+  padding: 50px 10%;
+  margin: 50px 0;
+  background-color: lightgrey;
+}
+
+.infoPanel--text-container {
+  display: flex;
+  flex-direction: column;
+  padding-right: 80px;
+}
+
+.infoPanel--image {
+  border-radius: 5px;
+  max-height: 400px;
+}
+
+.infoPanel--button {
+  max-width: 200px;
+  font-size: 0.9rem;
+  border: 1px black solid;
+  border-radius: 3px;
+  background-color: lightgray;
+  padding: 30px 30px;
+  margin-top: 30px;
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "image": "economy.jpg",
+    "type": "Economy",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni sapiente laudantium ea consequuntur nam facilis impedit velit maxime eveniet? Vel adipisci quod nam doloribus eveniet debitis laborum? Sed, reprehenderit delectus?",
+    "price": 55
+  },
+  {
+    "image": "standard.jpg",
+    "type": "Standard",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni sapiente laudantium ea consequuntur nam facilis impedit velit maxime eveniet? Vel adipisci quod nam doloribus eveniet debitis laborum? Sed, reprehenderit delectus?",
+    "price": 100
+  },
+  {
+    "image": "luxury.jpg",
+    "type": "Luxury",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni sapiente laudantium ea consequuntur nam facilis impedit velit maxime eveniet? Vel adipisci quod nam doloribus eveniet debitis laborum? Sed, reprehenderit delectus?",
+    "price": 500
+  },
+  {
+    "image": "electric.jpg",
+    "type": "Electric",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni sapiente laudantium ea consequuntur nam facilis impedit velit maxime eveniet? Vel adipisci quod nam doloribus eveniet debitis laborum? Sed, reprehenderit delectus?",
+    "price": 150
+  }
+]

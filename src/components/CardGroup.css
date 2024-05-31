@@ -1,0 +1,27 @@
+.cardGroup {
+  min-width: 100vw;
+  display: flex;
+  justify-content: space-evenly;
+  max-width: 80%;
+}
+
+.cardGroup--thumbnail-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.cardGroup--thumbnail {
+  font-size: 1.1rem;
+  font-weight: bold;
+  border: none;
+  border-radius: 3px;
+  padding: 30px;
+  margin: 15px 15px;
+  background-color: white;
+  border: 1px black solid;
+}
+
+.cardGroup--thumbnail:hover {
+  background-color: lightgray;
+}

@@ -1,0 +1,45 @@
+.card--container {
+  flex: 2;
+  max-width: 600px;
+  border: 1px solid black;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.card--image {
+  height: 300px;
+  border-radius: 50%;
+  padding: 10px 0;
+}
+
+.card--title-container {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.card--description-container {
+  display: flex;
+  flex-direction: column;
+  padding: 0 5%;
+}
+
+.card--price {
+  font-weight: 500;
+}
+
+.card--button {
+  border: 1px solid black;
+  border-radius: 3px;
+  padding: 5px 80px;
+  height: 50%;
+  font-size: 1rem;
+  background-color: white;
+}
+
+.b-hover:hover {
+  background-color: lightgray;
+}
